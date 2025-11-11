@@ -1,0 +1,4 @@
+requests==2.25.1
+
+google-trends-keywords-discovery-tool-scraper/.keep
+textPlaceholder to keep directory integrity.
