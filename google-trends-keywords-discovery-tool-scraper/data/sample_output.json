@@ -1,0 +1,12 @@
+[
+    {
+        "keyword": "btc",
+        "type": "Rising",
+        "item": "btc liquidation heatmap"
+    },
+    {
+        "keyword": "btc",
+        "type": "Top",
+        "item": "usd to btc"
+    }
+]
