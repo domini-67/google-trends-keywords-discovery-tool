@@ -1,0 +1,5 @@
+{
+  "proxy": "http://your-proxy-url",
+  "countries": ["US", "IN"],
+  "keyword": "bitcoin"
+}
